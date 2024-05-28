@@ -1,0 +1,14 @@
+d:\needed\c#training\training\bin\Debug\net8.0\training.exe
+d:\needed\c#training\training\bin\Debug\net8.0\training.deps.json
+d:\needed\c#training\training\bin\Debug\net8.0\training.runtimeconfig.json
+d:\needed\c#training\training\bin\Debug\net8.0\training.dll
+d:\needed\c#training\training\bin\Debug\net8.0\training.pdb
+d:\needed\c#training\training\obj\Debug\net8.0\training.GeneratedMSBuildEditorConfig.editorconfig
+d:\needed\c#training\training\obj\Debug\net8.0\training.AssemblyInfoInputs.cache
+d:\needed\c#training\training\obj\Debug\net8.0\training.AssemblyInfo.cs
+d:\needed\c#training\training\obj\Debug\net8.0\training.csproj.CoreCompileInputs.cache
+d:\needed\c#training\training\obj\Debug\net8.0\training.dll
+d:\needed\c#training\training\obj\Debug\net8.0\refint\training.dll
+d:\needed\c#training\training\obj\Debug\net8.0\training.pdb
+d:\needed\c#training\training\obj\Debug\net8.0\training.genruntimeconfig.cache
+d:\needed\c#training\training\obj\Debug\net8.0\ref\training.dll
